@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @dev4v
 - 👀 I’m interested in ...data
-- 🌱 I’m currently learning ...data analytics
-- 💞️ I’m looking to collaborate on ...NLP and tensorflow
+- 🌱 I’m currently learning ...data science
+- 💞️ I’m looking to collaborate on ...machine learning and astronomy
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
