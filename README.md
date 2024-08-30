@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dev4v
+- 👋 Hi, I’m Ved
 - 👀 I’m interested in ...data
 - 🌱 I’m currently learning ...data science
 - 💞️ I’m looking to collaborate on ...machine learning and astronomy
