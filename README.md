@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ved
-- 👀 I’m interested in ...data
+- 👀 I’m interested in ...data and astronomy
 - 🌱 I’m currently learning ...data science
-- 💞️ I’m looking to collaborate on ...machine learning and astronomy
+- 💞️ I’m looking to collaborate on ...computer vision
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
