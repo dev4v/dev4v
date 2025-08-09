@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...data and astronomy
 - 🌱 I’m currently learning ...data science
 - 💞️ I’m looking to collaborate on ...computer vision,machine learning and deep learning
-- 📫 How to reach me ...
+
 - 😄 Pronouns: he/him
   
 
