@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Ved
-- 👀 I’m interested in ...data and astronomy
-- 🌱 I’m currently learning ...data science
-- 💞️ I’m looking to collaborate on ...computer vision,machine learning and deep learning
+ Hi, I’m Ved
+ I’m interested in ...data and astronomy
+ I’m looking to collaborate on ...computer vision,machine learning and deep learning
+ 
 
-- 😄 Pronouns: he/him
   
 
 <!---
