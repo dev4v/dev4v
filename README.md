@@ -1,11 +1,6 @@
  Hi, I’m Ved
 
- 
-I’m interested in data and astronomy
-,currently exploring applications of diffusion models 
- 
- I’m looking to collaborate in domains  related to computer vision,machine learning and deep learning
- 
+
  
 
   
